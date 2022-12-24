@@ -29,11 +29,13 @@ O projeto **[Tailwind CSS](https://nayarawatanuki.github.io/tailwind-css__introd
 ## :hammer: Funcionalidades e Demonstração da Aplicação
 
 **Nesta aula:** 
-- Foi demonstrado o que é o Tailwind e como utilizar;
-
-- Opções de instalação no projeto;
-
-- Semelhança com o Bootstrap.
+- Tailwind
+  - Tailwind CSS e quais são os seus propósitos.
+  - Maneiras de incorporar o Tailwind CSS em um projeto.
+- Tailwind x Bootstrap
+  - Principais diferenças entre os frameworks Tailwind e Bootstrap.
+- Utility Classes
+  - Aplicamos na prática em um primeiro projeto.
 
 </br>
 
