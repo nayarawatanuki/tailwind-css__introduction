@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Tailwind CSS" src="https://raw.githubusercontent.com/nayarawatanuki/tailwind-css__introduction/main/img/readme/Alura-newsletter__cover.png"/>
+  <img alt="Tailwind CSS" src="https://raw.githubusercontent.com/nayarawatanuki/tailwind-css__introduction/a2e59f6dc31454b658abed8ae4cdb93d65e728d2/img/readme/TailwindCSS-logo.svg"/>
 </h1>
 
 ### Índice
@@ -17,7 +17,7 @@
 ## :pencil: Descrição do Projeto
 O projeto **[Tailwind CSS](https://nayarawatanuki.github.io/tailwind-css__introduction/)**, é apenas uma demonstração de como funciona a estilização Tailwind. 
 
-</br>Desenvolvido para introdução do curso: **TAILWIND CSS - ESTILIZANDO A SUA PÁGINA COM CLASSES UTILITÁRIAS** da platforma [Alura](https://www.alura.com.br/).
+</br>Desenvolvido para introdução do curso: **TAILWIND CSS - ESTILIZANDO A SUA PÁGINA COM CLASSES UTILITÁRIAS** da plataforma [Alura](https://www.alura.com.br/).
 
 </br>
 
